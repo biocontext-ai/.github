@@ -1,3 +1,3 @@
-# BioContext.AI
+# BioContextAI
 
 💡🧬 Enhance your AI with biomedical knowledge
