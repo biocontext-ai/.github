@@ -43,15 +43,6 @@ We leverage the emerging [Model Context Protocol](https://modelcontextprotocol.i
 - **Extend functionality**: Build upon our server implementation
 - **Join development**: Check our [contribution guidelines](https://biocontext.ai/docs)
 
-## 📈 Impact
-
-Our evaluation shows significant improvements in biomedical AI task performance when using MCP servers compared to base models or web search alone. Case studies demonstrate enhanced capabilities across:
-- Literature research
-- Protein-protein interaction analysis
-- Clinical trial discovery
-- Gene-disease association queries
-- Multi-step biomedical workflows
-
 ## 🤝 Community
 
 We're building a collaborative ecosystem inspired by successful bioinformatics initiatives like scverse, BioCypher, and Bioconda. Join us in advancing biomedical AI:
