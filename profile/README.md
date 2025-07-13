@@ -27,7 +27,7 @@ We leverage the emerging [Model Context Protocol](https://modelcontextprotocol.i
 
 🖥️ **[Server](https://github.com/biocontext-ai/server)** - Production-ready MCP server providing access to essential biomedical databases
 
-💬 **[Chat](https://chat.biocontext.ai)** - Interactive interface for testing and using MCP-enabled biomedical AI assistants
+💬 **[Chat](https://biocontext.ai/chat)** - Interactive interface for testing and using MCP-enabled biomedical AI assistants
 
 🌐 **[Website](https://github.com/biocontext-ai/website)** - Documentation, tutorials, and community resources
 
@@ -65,7 +65,7 @@ We're building a collaborative ecosystem inspired by successful bioinformatics i
 
 - **Website**: [biocontext.ai](https://biocontext.ai)
 - **Registry**: [biocontext.ai/registry](https://biocontext.ai/registry)
-- **Chat Interface**: [chat.biocontext.ai](https://chat.biocontext.ai)
+- **Chat Interface**: [biocontext.ai/chat](https://biocontext.ai/chat)
 - **Documentation**: [biocontext.ai/docs](https://biocontext.ai/docs)
 - **Remote Server**: [mcp.biocontext.ai](https://mcp.biocontext.ai)
 
