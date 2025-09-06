@@ -15,9 +15,11 @@ We leverage the emerging [Model Context Protocol](https://modelcontextprotocol.i
 
 ### Core Components
 
-🗂️ **[Registry](https://github.com/biocontext-ai/registry)** - Community-driven catalog of biomedical MCP servers with rich metadata, enforcing FAIR principles and open-source standards
+🗂️ **[Registry](https://github.com/biocontext-ai/registry/)** - Community-driven catalog of biomedical MCP servers with rich metadata, enforcing FAIR principles and open-source standards
 
-🖥️ **[Knowledgebase MCP](https://github.com/biocontext-ai/knowledgebase-mcp)** - Production-ready MCP server providing access to essential biomedical databases
+🖥️ **[Knowledgebase MCP](https://github.com/biocontext-ai/knowledgebase-mcp/)** - Production-ready MCP server providing access to essential biomedical databases
+
+🍪 **[Cookiecutter Template](https://github.com/biocontext-ai/mcp-server-cookiecutter/)** - MCP server cookiecutter to streamline development
 
 💬 **[Chat](https://biocontext.ai/chat)** - Interactive interface for testing and using MCP-enabled biomedical AI assistants
 
@@ -49,6 +51,7 @@ We're building a collaborative ecosystem inspired by successful bioinformatics i
 |------------|-------------|----------|---------|
 | [registry](https://github.com/biocontext-ai/registry) | Community MCP server catalog | Metadata/JSON | ✅ Active |
 | [knowledgebase-mcp](https://github.com/biocontext-ai/knowledgebase-mcp) | Biomedical MCP server | Python | ✅ Active |
+| [mcp-server-cookiecutter](https://github.com/biocontext-ai/mcp-server-cookiecutter) | MCP server template | Python | ✅ Active |
 | [website](https://github.com/biocontext-ai/website) | Main website and documentation | TypeScript/Next.js | ✅ Active |
 | [evaluation](https://github.com/biocontext-ai/simple-mcp-evaluation) | Benchmarking scripts | Python | ✅ Active |
 
@@ -62,4 +65,6 @@ We're building a collaborative ecosystem inspired by successful bioinformatics i
 
 ## 📄 Citation
 
-Tba.
+```
+Kuehl, M., Schaub, D. P., Carli, F., Heumos, L., Fernandez-Zapata, C., Kaiser, N., ... & Puelles, V. G. (2025). Community-based biomedical context to unlock agentic systems. bioRxiv, 2025-07.
+```
